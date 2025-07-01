@@ -8,6 +8,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'A Monnier',
+			favicon: '/favicon.png',
 			plugins: [starlightThemeObsidian()],
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/monnierant/Knowledge-Base' }],
 			sidebar: [
