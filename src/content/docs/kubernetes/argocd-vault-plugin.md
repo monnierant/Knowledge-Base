@@ -181,5 +181,4 @@ extraObjects:
                 helm template $ARGOCD_APP_NAME --include-crds . |
                 argocd-vault-plugin generate -
           lockRepo: false
-
 ```
