@@ -28,7 +28,9 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - uses: codfish/semantic-release-action@v3
+      # codfish/semantic-release-action is blocked by GitHub (ToS): run semantic-release directly.
+      - name: Semantic release
+        run: npx semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
