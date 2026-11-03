@@ -16,6 +16,7 @@ export default defineConfig({
 					label: 'Kubernetes',
 					autogenerate: { directory: 'kubernetes' },
 				},
+				{ label: 'Contact et mentions légales', link: '/contact/' },
 			],
 		}),
 	],
