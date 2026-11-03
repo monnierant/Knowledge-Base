@@ -26,6 +26,6 @@ description: Coordonnées de l'éditeur du site et informations légales.
 
 | | |
 |---|---|
-| Nom | [HÉBERGEUR] |
-| Adresse | [ADRESSE DE L'HÉBERGEUR] |
-| Téléphone | [TÉLÉPHONE DE L'HÉBERGEUR] |
+| Nom | Hetzner Online GmbH |
+| Adresse | Industriestr. 25, 91710 Gunzenhausen, Allemagne |
+| Téléphone | +49 (0)9831 505-0 |
