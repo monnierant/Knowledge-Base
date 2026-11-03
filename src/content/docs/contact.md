@@ -6,7 +6,6 @@ description: Coordonnées de l'éditeur du site et informations légales.
 ## Contact
 
 - **E-mail** : contact@amonnier.fr, administrator@amonnier.fr
-- **Téléphone** : [TÉLÉPHONE]
 - **Adresse** : APPT 7D 67 RUE ADOLPHE THIERS, 26000 VALENCE, France
 
 ## Éditeur du site
